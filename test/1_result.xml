@@ -1,3 +1,1 @@
-<block><declarations> <var label="x" /> <var label="y" /><var label="z" /> <num val="4" /> <num val="-5" /><num val="1" /></declarations>
-
-    </block>
+<block><declarations> <var label="x" /> <var label="y" /><var label="z" /> <num val="4" /> <num val="-5" /><num val="1" /></declarations></block>
