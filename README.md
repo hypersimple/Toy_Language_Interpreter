@@ -1,3 +1,5 @@
+A CEK-style interpreter for a simple programming language represented in the XML format.
+
 Yue Chen, Matt Clarke-Lauer
 Northeastern University
 
