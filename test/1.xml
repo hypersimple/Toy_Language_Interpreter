@@ -1,0 +1,17 @@
+<block>
+    <declarations> <var label="x" /> <var label="y" /><var label="z" /> <num val="0" /> <num val="-5" /><num val="0" /></declarations>
+
+    <if0> <var label="x" />
+        <assign> <var label="x" />  <num val="2" />  </assign>
+        <assign> <var label="y" /> <pls> <var label="y" /> <num val="1" /> </pls> </assign>
+    </if0>
+
+    <assign> <var label="x" /> <pls> <var label="x" /> <num val="1" /> </pls> </assign>
+    <block>
+        <declarations> <var label="y" /><var label="x" /> <num val="1" /><num val="8" /> </declarations>
+        <assign> <var label="y" /> <pls> <var label="y" /> <num val="1" /> </pls> </assign>
+        <assign> <var label="z" /> <pls> <var label="z" /> <num val="1" /> </pls> </assign>
+    </block>
+    <assign> <var label="x" /> <pls> <var label="x" /> <num val="1" /> </pls> </assign>
+
+</block>
